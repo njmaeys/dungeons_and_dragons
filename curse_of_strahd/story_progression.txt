@@ -1,0 +1,261 @@
+Story progression
+
+Strahd von Zarovich
+
+###############################################
+Roll20: https://app.roll20.net/join/12222166/g9y-jg
+
+###############################################
+Strahds overall 3 main goals
+1) Turn Ireena Kolyana
+	- Strahd believes her to be the reincarnation of his beloved Tatyana
+
+2) Find Rudolph Van Richten
+	- Richten is a renowned vampire hunter and Strahd wants to find him and imprison him
+
+3) Find a successor or consort
+	- As new people enter Barovia, Strahd turns his attention to them. Eventually realizing none can be enough for him.
+	- Takes great interest in arogance 
+
+###############################################
+The important artifacts the players can find
+	1) Tome of Strahd
+			- Traitor 
+			- Tells of history. Knowledge of the ancient will help you better understand your enemy. Wealthy woman a staunch ally of the devil, she keeps the treasure under lock and key, with the bones of an ancient enemy.
+			- Master bedroom of Wachterhaus in Vallaki (chapter 5 area N4o)
+	2) Holy Symbol of Ravenkind
+			- Preist 
+			- Find what you seek in the castle, amid the ruins of a place of supplication.
+			- Treasure lies in Castle Ravenloft's chapel (chapter 4, area K15)
+	3) Sunsword (https://curseofstrahd-263.obsidianportal.com/items/sunsword use this to create it once they find it) (DONE)
+			- Rogue 
+			- Power and strength. It tells of a weapon of vengance: a sword of sunlight.
+			- Nest of ravens. There you will find the prize.
+			- Treasure is hidden in the attic of the Blue Water Inn (chapter 5 area N2q)
+	4) Strahd's Enemy (DONE)
+			- Broken One
+			- Sheds light on one who will help you greatly in the battle against darkness.
+			- A man of faith whose sanity hangs by a thread. He has lost someone close to him.
+			- Donavich the preist in the village of Barovia (chapter 3 area E5). He will not accompany the characters until his son, Doru, is dead and buried.
+	5) Strahds location
+			- Marionette
+			- Your enemy is a creature of darkness whose powers are beyond mortality
+			- Look to great heights. Find the beating heart of the castle. He waits nearby
+			- Strahd faces the characters in the north tower peak (area K60)
+
+###############################################
+Tarot card reading is the kind of entry into this whole story. I want to have them be greated by the story teller in the woods. The Inn keeper (Granti - Female elf). There is rumor of a camp of bandits on the outskirts of town that keep harassing the town. A few groups have tried to get them to go away but have been unsucessful. 
+
+They can come across the group in the woods outside of town. A small fire is burning with a couple individuals around it. The fog thickens and can only see the orange light dancing in the fog. Stanmir will roll perception if necessary and greet them. His goal is to tell them the story.
+
+--------------------------------------
+# Session 1 (2022-01-19)
+
+Kaitlin : Beni - He/Him
+Tom     : Eithne (en-ya) - She/Her
+Mitch   : Tora - She/Her
+Jason   : LeStat - He/Him
+Chris   : Stake - He/Him
+
+Kaitlin's many languagues
+		- Abyssal, Common, Deep Speech. Elvish, Goblin, Infernal, Sylvan, Thieves Cant, and Undercommon
+
+Wine cellar of Twisted Cedar Inn
+	- City of Braewell
+		- Telden
+	- Owner Pawnci (human female)
+
+Their reading
+	- see above
+
+--------------------------------------
+# Session 2 (2022-01-26)
+
+After the card reading she closes the door. She tells the players she wishes to remove the hold that Strahd has over the land. She herself cannot be the one to accomplish this task. They may be abale to find aid in Barovia. She will be willing to answer questions they have.
+
+I should direct them towards the village of Barovia. This is where Donavich is who is their ally against Strahd. 
+From the Madam Eva (Visanti village) it'll take about 2 hours (6ish miles). 
+
+The gallows along their travel. They find a gallows which is begging to rot. There are unmarked graves around this structure and sign posts. 
+
+Upon entering Barovia the streets seem baron. It is dreaery and delapedated. Have them make perception checks. They can hear light whailing which is coming from Doru, Donavich's son. The do not see the building it is coming from. There is only one building with lights on that they can see at the moment. All of the doors have scratch marks on them.
+
+I want them to either go directly towards the church or, or go to where Ismark the Lesser is, or go to the lit building where Ireena Kolyana is.
+	- If they go towards Ireena then have Strahd show up at the door at some point.
+		- He doesn't want to fight just to see Ireena and is pleased to see fresh faces in Barovia.
+		- Ireena wants to get the buroughmaster (Kolyan Indirovich) to the cemetary for a proper burial
+	- If they go to the tavern in the center of town there is a sign which reads Blood on the Vine Tavern
+		- Ismark asks the party to help him get his sister (Ireena) to the Vallaki (west of here)
+			- has heard assertions it is safe and that Strahd would have difficulties getting to her there
+	- If they go to the Church
+		- The whailing gets more pronounced and eventually they can make out some of the words
+		- Donavich refuses to help until his "son" has been taken care of
+
+--------------------------------------
+# Session 3 (2022-02-09)
+
+What does Donavich (their ally and Strahd's enemy) have to offer?
+	- knowledge of barovia (see sticky note on barovian lore)
+	- knows of the Sunsword and the lore behind it
+		- said to have once been the blad of Strahd's brother, Sergie von Zarovich
+		- i've never seen it myself but heard it has unatural powers
+	- he warns that Castle Ravenloft is a very dangerous place
+		- the procession of souls is proof enough for me
+		- no one is welcome in Castle Ravenloft without Sthrad's invitation
+			- making it within the walls unoticed is likely nearly impossible
+	- offers two potions of healing (2d4+2)
+		- all i can offer at the moment but if you can find supplies or give me some time i can make more
+		- i'm well practiced in potion making, if there is anything you can think of for use let me know
+			- he can try and make it but will take time
+
+*** IMPORTANT ***
+Be sure during conversation to say something about
+	- Thanking them for saving him. I felt as though my mind was shattered, breaking into thousands of pieces
+		- they put him back together 
+
+When they leave him
+	- If and when you are ready to take on that monster, the bastard Sthrad find me, I will be by your side
+		- He took my boy from me and i wish to take his life from him
+*** IMPORTANT ***
+
+My initial goal here is to get them to talk with Ireena Kolyana (the Tatyana look alike)
+	- I want her to be their guide to Vallaki
+	- She shows up after saying the wolf attacks had stopped and she hasn't heard the screaming from the church
+		- She needs help getting her father (Kolyan Indirovich) to the grave
+		- She can carry him but cannot carry his coffin
+			- He was growing old and he wanted to hand craft his own knowing that his days were numbered
+			- didn't expect it so soon, she suspects the constant barage of wolf attacks drove his demise
+
+Strahd "attack" at Ireena's house
+	- He doesn't attack unless provoked
+	- Says he is so "sorry" to see that Kolyan has died
+		- really he could care less and is the one who sent the barage of wolf attacks/
+
+--------------------------------------
+# Session 4 (2022-02-16)
+
+Need to open right after the fight and point out the note in the scarecrow body
+	- They notice a small red glimmer on the scarecrow. Small folded piece of paper sealed with a small drop of wax
+	- "Mamma and friends. It's so nice to have newcomers in our wonderful Land of Barovia. I very much look forward to spending more time with you all. See you soon. Strahd von Zarovich"
+
+Vallaki
+	- Wolf attack as they try to get into the gates
+		- Guards come to help them
+
+	- Current leader is Baron Vargas Vallokovich
+		- Puts on many festivals that the denizens find rather dumb
+		- Vargas' hopes these will raise spirits and remove Vallaki from this plane of existance
+
+	- When they enter
+		- There is a large iron gate and dense fog rolling at the foot of the walls
+			- Shadowy figures appear on either side of the road unmoving as you approach 
+			- 6 pikes with wolf heads on the side of the road
+
+	- **GOAL** get them to the Blue Water Inn
+		- This is where the sunsword is
+		- Spark rummor of the festivalls and what the Baron is doing
+			- Upcomming event Festival of the Blazing Sun
+			- He imprisons anyone not playing by his rules
+		- Provide them information of the library in the city
+
+Blue Water Inn
+	- Owners - Urwin Martikov and Danika Martikov
+		- two sons Brom (11) and Bray (9)
+	- All members of the Keepers of the Feather and a secret society of wereravens
+
+Urwin tests them to see if they are worthy
+	- Wine supply is almost empty and next shipment is overdue
+	- The supplier is the Wizard of Wines, local winery and vineyard
+		- 3 miles north and the 
+
+Research
+	- Tome of Strahd
+		- Strahd is very protective of this and he has been known to seek it out and kill those who have taken it
+	- Holy symbol of Ravenkind
+	- The history of the winery
+	- Strahd has taken many mistresses in his day
+
+--------------------------------------
+# Session 5 (2022-03-21)
+
+Winery encounter
+	- Met by two cloaked figures on the edge of the treeline
+		- One is Davian the owner of the winery
+		- Tells how evil druids and blights have pushed them out of the winery
+			- forcing them to live in the woods for a few days now
+
+The three seeds have been taken
+	- Gems the size of pinecones that glow as bright as a torch but of a vibrant emrald green
+	- If they are not returned the vinyard will eventually die
+		- Removing one of very few options of joy and escape for barovians
+	- 3 locations
+		- Berez (chap 10 pg 161)
+			- Dreary marsh land created ages ago from Sthrad's rage
+			- Currently inhabited by Baba Lysaga (a hermit)
+				- Likely stole it in hopes of luring the wareravens to their death in her traps
+		- Yester Hill (chap 14 pg 197)
+			- Current location of worship of Druids who follow Strahd
+				- Where evil blights that roam the Svalich Woods are born
+			- Sthrad's ancestral home
+		- Not sure about the 3rd
+	- If you are so interested in why they may be there, talk to a Strahd expert
+		- Talk to my bastard of a sun Urwin when you get this wine to him
+
+Vallaki
+	- Current leader is Baron Vargas Vallokovich
+		- Puts on many festivals that the denizens find rather dumb
+		- Vargas hopes these will raise spirits and remove Vallaki from this plane of existance
+
+	- Upcomming festival 
+		- Upcomming event Festival of the Blazing Sun
+			- Giant burning pyre at the church
+			- City marked with symbols of the sun
+				- Banners on buildings
+				- Large glass lanterns with a magical light glowing inside
+				- It is to take place in a few days
+		- He imprisons anyone not playing by his rules
+		- eventually use this link to set up the info
+			- https://strahdsbod.obsidianportal.com/wikis/festival-of-the-blazing-sun
+
+--------------------------------------
+# Session 6 (2022-04-11)
+
+Reason why Urwin and Davian have hard time together
+	- Urwin blames Davian for his mom's death
+		- Mom's name: Milna
+	- She was killed during the attack that took the 2nd seed (Hag)
+		- Urwin thinks Davian could have done more
+		- Davian was staying back to protect the kids
+			- Urwin says he was old enough to protect the rest and Davian should have helped her
+
+Urwin wants to give them the sword
+	- Buys the extra wine from them if they offer
+	- The fancy wine would be a decent offer to Baron Vargas Vallakovich
+	- Why does he want to give them the sword?
+		- He has been working to re-build their force and believes the group can be of use
+		- Taking out the group of druids would be great
+	- Addtionally if they so choose to work with the Keepers of the Feather
+		- Gives them a key to a small duplex a few blocks away
+		- Gives them a small bronze feather
+			- Used as a distress beacon and a small number of members will come to their Aid
+				- Enchantment takes a day to recharge
+
+--------------------------------------
+# Session 7 (2022-04-18)
+
+Encounter in the Salvich Woods
+	- See a faint blue glowing light
+		- Kind of hops from one tree to another
+		- Creature has 150hp and 15AC
+			- Uses the "Lure" ability if anything tries to follow
+				- DC 14 wisdom save
+			- Vine whip: 3 attacks +4 to hit 1d4 per
+			- Consume: +5 to hit 1d8 and restrained if fail DC 15
+
+Vallakovich family
+	- Baron Vargas Vallokovich
+	- Barroness Lydia Petrov
+	- Two Bull mastifs 
+		- Ursa and Major
+	- Baronet (the son) Victor Valakovich
+		- Detests family and trying to escape by building a teleportation circle
