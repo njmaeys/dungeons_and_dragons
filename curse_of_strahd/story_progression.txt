@@ -243,8 +243,23 @@ Urwin wants to give them the sword
 --------------------------------------
 # Session 7 (2022-04-18)
 
-Encounter in the Salvich Woods
-	- See a faint blue glowing light
+#### RECAP LAST SESSION ####
+	- searched the winery and found very little wine supply left
+		- with one seed Davion has been able to maintain but with last seed gone has not chance
+	- returned the wine to Blue Water Inn for Urwin
+	- Urwin reveals him and Danika are top members of Keepers of the Feather 
+		- asks the group to join his resistance against Strahd
+		- gives the party a few things
+			- Sun Sword (mamma has and attuned to it)
+			- GPS Feather once per day can call for help
+			- Housing a few blocks over
+	- Urwin asks the group to help get the seed back from the Druids at Yester Hill
+		- This is the evil druids that worship Strahd
+	- Urwin says he can help get an audiance with the Baron for the party
+###############
+
+Encounter in the Salvich Woods as they head to Yester Hill
+	- See a faint Purple/Blue glowing light
 		- Kind of hops from one tree to another
 		- Creature has 150hp and 15AC
 			- Uses the "Lure" ability if anything tries to follow
@@ -259,3 +274,32 @@ Vallakovich family
 		- Ursa and Major
 	- Baronet (the son) Victor Valakovich
 		- Detests family and trying to escape by building a teleportation circle
+
+On they way to Yester Hill they can see an old delapedated structure
+	- I want to tie this to Madam Eva somehow
+		- Figure out how this is her "home"
+	- Large hole in the roof
+	- Looks like maybe a high bell tower or spire that is starting to fall over
+	- No sign and overgrown pathway heading to it
+		- Very far off in the distance
+
+As they travel the Salvich Woods closer to Yester Hill
+	- Loud booming and rumbling
+		- Giant sentient trees (not good and will attack the players if spotted)
+
+At Yester Hill
+	- When they get there they can see the edge of the fog
+		- Large and looming on the far side of the area
+	- Many concentric parths leading to a cobbled together statue of Strahd
+		- Made of twigs and sticks and a dull green glow in the center of it
+	- Behind the statue looms a very very large tree
+
+	****
+	- As they a approach they can hear chanting
+		- A ritual is being conducted to create a Treant (one of the giant tree creatures)
+		- Strahd is present and will defend the Druids if they are attacked
+			- 10 Druids and Strahd
+			- They are all unaware of the party if the party approaches carefully
+				- Preoccupied with the ritual at hand
+	- Strahd often visits this place because of the image in the fog wall
+		- His homeland Stenia (languague is Stenisian)
