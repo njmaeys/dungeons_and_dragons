@@ -37,7 +37,7 @@ The important artifacts the players can find
 			- Sheds light on one who will help you greatly in the battle against darkness.
 			- A man of faith whose sanity hangs by a thread. He has lost someone close to him.
 			- Donavich the preist in the village of Barovia (chapter 3 area E5). He will not accompany the characters until his son, Doru, is dead and buried.
-	5) Strahds location
+	5) Strahds location (DONE mostly they understand what this is)
 			- Marionette
 			- Your enemy is a creature of darkness whose powers are beyond mortality
 			- Look to great heights. Find the beating heart of the castle. He waits nearby
@@ -191,8 +191,8 @@ The three seeds have been taken
 	- 3 locations
 		- Berez (chap 10 pg 161)
 			- Dreary marsh land created ages ago from Sthrad's rage
-			- Currently inhabited by Baba Lysaga (a hermit)
-				- Likely stole it in hopes of luring the wareravens to their death in her traps
+			- Currently inhabited by Baba Lysaga (a Hag)
+				- Stole it to try and concieve a way to take down Strahd for turning her into what she is after Tatyana's death
 		- Yester Hill (chap 14 pg 197)
 			- Current location of worship of Druids who follow Strahd
 				- Where evil blights that roam the Svalich Woods are born
@@ -356,11 +356,46 @@ Found parchment in sealed box written in Stenisian
 	- Should runes fall and seeds be removed the curse should spread
 		- Uncertain but could possibly purge the heart with a seed
 
+--------------------------------------
+# Session 10 (2022-06-20)
+
 Baron will send messenger in the morning
 	- Asks the group to come speak to him
 	- He is willing to admit they were correct
 		- Asks what he can do to help
 		- Knowing the fall of the runes he is a bit fearful
 
+Strahd will attack at the festival
+	- He cant do a ton because he is still weakened a bit by the remaining runes
+	- He will cause the pyre to explode sending flames towards the church and surrounding buildings
+
+
+Guards
+	- 1: 17ac 50 hp
+		- 36
+	- 2: 15ac 40 hp
+		- 35
+
+
+		upper 14 +5 to hit
+		chris 13 
+		lower 10 +5 to hit
+		tom 9
+
 --------------------------------------
-# Session 10 (2022-06-20)
+# Session 11 (2022-07-18)
+
+##############
+Previous session:
+The group has information from the box they found in the tomb of St. Andral. It speaks of the crystals and how they may be an option to take down the heart of castle Ravenloft but uncertain how.
+
+They took Rupert to see Strahd so they could tell him that the job was done. The baron said that he needed them back to help protect the city during the festival. They trick guards to "meet friend" and lure them into the woods so that Le Stat and Rupert can go to Strahd. Strahd kills Rupert after showing he has magical means of tracking them, describing what the party was doing to Le Stat. The group goes back to Vallaki for the festival as requested by the baron. When they arrive the festival is begun. Just after sundown when the baron lights the pyre Strahd's face appears in the burning pyre and an explosion occurs lighting parts of the city on fire and killing many bystandars, including the baron. 
+##############
+
+Goal is to get them to go to either the old Hag or to Yester hill (druids) to get back one of the seeds and use it against Strahd. The Hag (Baba Lysaga at Berez) has one and some knowledge on how it may be used.
+
+How to use the seed:
+	- She isn't quite sure but suspects that something in the castle is the source of the corruption. She walks to an old withered plant in a clay pot. As she presses the seed into the dirt, in this small concentrated sample of soil the flower turns bright green and blooms into a vibrant sunflower. As soon as she removes the seed the flower wilts and decays once more. It pushes the corruption back but still something holds this land.
+
+My lil secret is the Hag is Le Stats mother
+	- There is a cracked framed portrait of a young woman holding an infant child. 15 perception will pick up on the portrait which is sitting on a cubbard that she walks past. It catches the eye because unlike everything else in here it seems to be free of dust as if it is regularly cleaned.
