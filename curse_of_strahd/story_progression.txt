@@ -7,12 +7,15 @@ Roll20: https://app.roll20.net/join/12222166/g9y-jg
 
 ###############################################
 Strahds overall 3 main goals
+YES
 1) Turn Ireena Kolyana
 	- Strahd believes her to be the reincarnation of his beloved Tatyana
 
+NOPE
 2) Find Rudolph Van Richten
 	- Richten is a renowned vampire hunter and Strahd wants to find him and imprison him
 
+NOPE
 3) Find a successor or consort
 	- As new people enter Barovia, Strahd turns his attention to them. Eventually realizing none can be enough for him.
 	- Takes great interest in arogance 
@@ -435,6 +438,11 @@ Piddlewick
 Why would he help them
 	- He wants to entertain and have a purpose again
 		- Creation purpose was to entertain and the outlet has driven him mad
+
+Piddlewick has a few pages ripped from the Strahd's Tome
+	- He was given them by Baba Lysaga
+		- She gave it to Piddlewick as a sign of good faith early in their friendship
+		- Trying to give him a reason to trust her
 
 	
 
