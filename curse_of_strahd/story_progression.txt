@@ -22,11 +22,11 @@ NOPE
 
 ###############################################
 The important artifacts the players can find
-	1) Tome of Strahd
+	1) Tome of Strahd (This doesn't really seem useful anymore outside of lore)
 			- Traitor 
 			- Tells of history. Knowledge of the ancient will help you better understand your enemy. Wealthy woman a staunch ally of the devil, she keeps the treasure under lock and key, with the bones of an ancient enemy.
 			- I've alluded to the Hag several times. I'm making her the keeper of the tome. She was once a beautiful woman that Strahd cursed blaming her for death of Tatyana.
-	2) Holy Symbol of Ravenkind
+	2) Holy Symbol of Ravenkind (Piddlewick can help with this)
 			- Preist 
 			- Find what you seek in the castle, amid the ruins of a place of supplication.
 			- Treasure lies in Castle Ravenloft's chapel (chapter 4, area K15)
@@ -435,15 +435,14 @@ Piddlewick
 			- less than perfect versions of himself
 				- 10 versions of him each is named a letter of Piddlewick
 
+--------------------------------------
+# Session 14 (2022-08-22)
+
 Why would he help them
 	- He wants to entertain and have a purpose again
 		- Creation purpose was to entertain and the outlet has driven him mad
 
-Piddlewick has a few pages ripped from the Strahd's Tome
-	- He was given them by Baba Lysaga
-		- She gave it to Piddlewick as a sign of good faith early in their friendship
-		- Trying to give him a reason to trust her
-
-	
+Piddlewick knows where to find Holy Symbol of Ravenkind
+	- It's in the church and quite useful against Strahd
 
 
