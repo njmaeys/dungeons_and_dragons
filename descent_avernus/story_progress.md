@@ -23,9 +23,32 @@ If you're a player turn back now...
 ## Players
 | Player  | Char Name | Class | Race |
 | :------ | :------ | :------ | :------ |
-| Jason | ? | ? | ? |
-| Chris | ? | ? | ? |
-| Mitch | ? | ? | ? |
+| Jason | Bramsey | Wizard | Half Elf |
+| Chris | Mass-Cott | Rogue | Kobold |
+| Mitch | Cornelius | Cleric | Human |
+
+## Key Player Info
+- Bramsey
+    - From Baldurs Gate
+    - Wizard of the "highest repute"
+- Mass-Cott
+    - Old pirate
+- Cornelius
+    - From Baldurs Gate
+    - Ties to the militia likely some flaming fists
+
+## Key NPCs
+
+**Grand Duke Uldar Ravengard**
+- Leader of Baldurs Gate
+- Was in Elturel when it dissapeared
+
+**Captain Zodge**
+- Leader of the Flaming Fists
+
+**Tarina**
+- Has info about the Dead Three
+- Past issues with her pirate crew
 
 ## Sessions
 
