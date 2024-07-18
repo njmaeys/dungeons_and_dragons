@@ -36,6 +36,8 @@ If you're a player turn back now...
 - Cornelius
     - From Baldurs Gate
     - Ties to the militia likely some flaming fists
+    - Some sort of box that he takes donations of Tyre for
+        - Alms box? Cleric of Tyre
 
 ## Key NPCs
 
@@ -49,6 +51,9 @@ If you're a player turn back now...
 **Tarina**
 - Has info about the Dead Three
 - Past issues with her pirate crew
+
+**Masues**
+- Bronx
 
 ## Sessions
 
@@ -67,6 +72,11 @@ The players have come to Baudlers Gate hearing of the dissapearance of Elturel. 
 
 Captian Zodge eventually pulls all the people aside and explains his ask and employment opportunities.
 
+**Captain Bridgen**
+- Tarina's old captain
+    - Ship: Uncivil Serpent
+    - She stole from him and it took him a while to find out
+
 **Captian Zodge**
 - He is the initial contact point for the characters
     - There are several people he is addressing
@@ -83,6 +93,13 @@ Captian Zodge eventually pulls all the people aside and explains his ask and emp
 - Get them to the bathhouse to investigate the dead three
 - Get them into the dungeon
 
+**Elf Song Tavern**
+Alan Alynth
+    - Person working there
+
+Corneilus sends a message to Zodge
+    - We need to be on the lookout for an individual striking Cornelius expecting to get 
+
 **Bath House**
 - Tarina knows that there have been followers of Dead Three going in and out
     - It's a legit business as far as she knows but she hears there is a hidden entrance to some mysterious dungeons below pg. 19
@@ -92,3 +109,10 @@ Captian Zodge eventually pulls all the people aside and explains his ask and emp
         - Strictly told not to hang around after hours
 - Owner
     - Duke Thalamara Vanthampur but ran by her son Mortlock
+
+
+PREP for next time
+    - Getting into the dungeon of the dead three
+        - Prep for what they find and how to explore it
+    - Set up the battle and better understand the 
+    - Get the Dukes Name of the bathhouse
