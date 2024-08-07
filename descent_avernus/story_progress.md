@@ -84,7 +84,7 @@ Captian Zodge eventually pulls all the people aside and explains his ask and emp
         - Zodge starts grouping up folks
 
 ### 01: 2024-07-17
-*Sweet Title*
+*Ribbons Are Beautiful*
 
 **Goal(s)**
 - Get the players to go to Elf Song Tavern to meet Tarina
@@ -116,3 +116,17 @@ PREP for next time
         - Prep for what they find and how to explore it
     - Set up the battle and better understand the 
     - Get the Dukes Name of the bathhouse
+
+### 02: 2024-08-07
+*Sweet Title*
+
+**I owe the group**
+- Duke Vanthumpur - Manages the City Water Supply
+    - Owner of the Bath House
+- Mitch's rough cut ruby - 50GP
+
+**Goal(s)**
+- Get them going through the mini dugeon crawl under the basement
+
+**Key NPCs Here**
+- asdf
