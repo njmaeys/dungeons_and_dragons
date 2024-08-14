@@ -41,6 +41,14 @@ If you're a player turn back now...
 
 ## Key NPCs
 
+**The Gods (Dead Three)**
+- Bane
+    - God of Tyranny
+- Bhaal
+    - God of Murder
+- Myrkul
+    - Lord of Bones
+
 **Grand Duke Uldar Ravengard**
 - Leader of Baldurs Gate
 - Was in Elturel when it dissapeared
@@ -118,15 +126,72 @@ PREP for next time
     - Get the Dukes Name of the bathhouse
 
 ### 02: 2024-08-07
-*Sweet Title*
+*Smelly Bathhouse*
 
 **I owe the group**
-- Duke Vanthumpur - Manages the City Water Supply
+- Duke Thalamara Vanthumpur - Manages the City Water Supply
     - Owner of the Bath House
 - Mitch's rough cut ruby - 50GP
 
 **Goal(s)**
 - Get them going through the mini dugeon crawl under the basement
+- Have a small battle with the group
+    - The Necromites in D10
+- Get them to Mortlock
+    - He want's to make sure his Mom doesn't take power
+    - She is paying these followers to cause as much trouble for the Flaming fists as possible
+        - If they can "break" the Flaming Fists she will have an easy path to Grand Duke
 
 **Key NPCs Here**
-- asdf
+- Duke Thalamara Vanthumpur
+- Mortlock Vanthumpur
+    - Thalamar's Son
+
+
+** Reminder PREP for next time **
+- Send all the spell books
+- Gotta use the stabalized individual as their next conversation
+    - This is Kazzira pg 22 rm D12
+    - They tie her up
+- Gotta come up with conversation for the person being tortured is Klim Jhasso
+
+
+### 03: 2024-08-14
+*Sweet Title*
+
+Spell Books
+- 1) Burning Hands, Detect Magic, Disguise Self, Fog Cloud, Ray of Sickness, Silent Image
+- 2) Charm Person, Find Familiar, Identify, Magic Missile, Sleep
+- 3) Cloud of Daggers, Darkvision, Detect Magic, Feather Fall, Mage Armor, Magic Missile, Tasha's Hideous Laughter
+
+
+*Kazzira* pg 22 rm D12
+    - Follower of Bane
+    - She is specifically a `Fist of Bane`
+    - Keys on her belt
+        - Shackles on Klim
+        - 2 for Shackles in D22
+        - 4 that unlock chests in area D30
+    - *What she knows*
+        - She is promoting and feeding the power of Bane
+        - Flaming Fists reign and dominion is over
+            - The Dead Three shall rise
+
+**Key NPCs Here**
+- Duke Thalamara Vanthumpur
+- Mortlock Vanthumpur
+    - Thalamar's Son
+    - What he knows
+        - His mother is attempting to push the Flaming Fists out of power
+            - She wants to do this to ensure she can usurp the Grand Duke position
+    - Mortlock has been betrayed by his two brothers
+        - Thurstwel and Amrik have set up an assassination attempt using the Dead Three cultists
+        - **NOTE**: If they make it to this point and start talking to him. ALL of his knowledge and exposition is on pg 25-26
+            - He willingly gives up any and all information they ask for
+
+**Goal(s)**
+- Get the group to Mortlock
+- Get Mortlock to give all the details of his Mom, Brothers, Dead Three, and Flaming Fists
+- Get the players to head towards Low Lantern Inn 
+    - They are to track down Amrik (Mortlock's brother)
+    - Amrik is important because their Mother will do anything to save her favorite son
