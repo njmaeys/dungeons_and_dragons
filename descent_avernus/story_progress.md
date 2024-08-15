@@ -160,12 +160,12 @@ PREP for next time
 *Sweet Title*
 
 Spell Books
-- 1) Burning Hands, Detect Magic, Disguise Self, Fog Cloud, Ray of Sickness, Silent Image
-- 2) Charm Person, Find Familiar, Identify, Magic Missile, Sleep
-- 3) Cloud of Daggers, Darkvision, Detect Magic, Feather Fall, Mage Armor, Magic Missile, Tasha's Hideous Laughter
+1) Burning Hands, Detect Magic, Disguise Self, Fog Cloud, Ray of Sickness, Silent Image
+2) Charm Person, Find Familiar, Identify, Magic Missile, Sleep
+3) Cloud of Daggers, Darkvision, Detect Magic, Feather Fall, Mage Armor, Magic Missile, Tasha's Hideous Laughter
 
 
-*Kazzira* pg 22 rm D12
+**Kazzira** pg 22 rm D12
     - Follower of Bane
     - She is specifically a `Fist of Bane`
     - Keys on her belt
