@@ -165,7 +165,7 @@ Spell Books
 3) Cloud of Daggers, Darkvision, Detect Magic, Feather Fall, Mage Armor, Magic Missile, Tasha's Hideous Laughter
 
 
-**Kazzira** pg 22 rm D12
+**Kassira** pg 22 rm D12
     - Follower of Bane
     - She is specifically a `Fist of Bane`
     - Keys on her belt
