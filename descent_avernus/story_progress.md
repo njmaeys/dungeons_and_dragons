@@ -21,11 +21,11 @@ If you're a player turn back now...
 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||  
 
 ## Players
-| Player  | Char Name | Class | Race |
-| :------ | :------ | :------ | :------ |
-| Jason | Bramsey | Wizard | Half Elf |
-| Chris | Mass-Cott | Rogue | Kobold |
-| Mitch | Cornelius | Cleric | Human |
+| Player  | Char Name | Class | Race | Passive Perception |
+| :------ | :------ | :------ | :------ | :------ |
+| Jason | Bramsey | Wizard | Half Elf | 11 |
+| Chris | Mass-Cott | Rogue | Kobold | 12 |
+| Mitch | Cornelius | Cleric | Human | 9 |
 
 ## Key Player Info
 - Bramsey
@@ -156,8 +156,8 @@ PREP for next time
 - Gotta come up with conversation for the person being tortured is Klim Jhasso
 
 
-### 03: 2024-08-14
-*Sweet Title*
+### 03: 2024-08-21
+*Axe of Doom*
 
 Spell Books
 1) Burning Hands, Detect Magic, Disguise Self, Fog Cloud, Ray of Sickness, Silent Image
@@ -195,3 +195,18 @@ Spell Books
 - Get the players to head towards Low Lantern Inn 
     - They are to track down Amrik (Mortlock's brother)
     - Amrik is important because their Mother will do anything to save her favorite son
+
+### 04: 2024-??-??
+**Loot to get them**
+- Necromatic spell book. Give them 5
+    - One of them is Raise Dead
+- Two neckalaces
+    - One gold and one platinum
+        - Should I make one of them magical?
+- Two purple gems 
+    - Give them the the worth
+- Figure out Mortlocks brothers
+
+
+**Key NPCs Here**
+- Klim (The guy they saved)
