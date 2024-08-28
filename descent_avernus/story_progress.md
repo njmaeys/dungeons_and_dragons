@@ -60,8 +60,11 @@ If you're a player turn back now...
 - Has info about the Dead Three
 - Past issues with her pirate crew
 
-**Masues**
-- Bronx
+**Dukes**
+- 3 lesser dukes to the Grand duke
+    - Lady Thalmara Vanthumpur - Owns the Bath house
+    - ??
+    - ??
 
 ## Sessions
 
@@ -157,7 +160,7 @@ PREP for next time
 
 
 ### 03: 2024-08-21
-*Axe of Doom*
+*Spinny Axe of Doom*
 
 Spell Books
 1) Burning Hands, Detect Magic, Disguise Self, Fog Cloud, Ray of Sickness, Silent Image
@@ -196,7 +199,6 @@ Spell Books
     - They are to track down Amrik (Mortlock's brother)
     - Amrik is important because their Mother will do anything to save her favorite son
 
-### 04: 2024-??-??
 **Loot to get them**
 - Necromatic spell book. Give them 5
     - One of them is Raise Dead
@@ -208,5 +210,81 @@ Spell Books
 - Figure out Mortlocks brothers
 
 
+### 03: 2024-08-28
+*Sweet Title*
+
+**Loot from last time**
+- Necromatic spell book. Give them a few
+    - Chill Touch, Toll the Dead, Inflict Wounds, Revivify
+- Neckalaces
+    - Gold: 5gp
+    - Platinum: 5pt
+- Purple Gems (Amathys)
+    - 50gp each
+
+**Reward from Captain Zodge**
+- 200gp each if they go back and talk
+    - Especially if they tell all the info they know
+
 **Key NPCs Here**
 - Klim (The guy they saved)
+    - Chef at Rivers Might
+        - Offers a free meal on him if they ever come by
+        - Enchanting little place near the docs
+        - Specializes in fish and fresh from the river
+            - Trollys Delight - Fish stew with lots of hearty veggies and spices
+- Mortlock Vanthumpur
+    - Mother is Duke Thalamar
+        - She tollerates them
+    - Brothers - Thurstwell & Amrik
+        - Both of them dispise him
+- Amrik Vanthumpur (pg. 30)
+    - Sleezy business man type deal
+
+**Goal(s)**
+- Get Mortlock to give all the details of his Mom, Brothers, Dead Three, and Flaming Fists
+- Get the players to head towards Low Lantern Inn 
+    - They are to track down Amrik (Mortlock's brother)
+    - Amrik is important because their Mother will do anything to save her favorite son
+- How does Zodge and flaming fists fit into all of this
+    - I imagine they are going to go back here at some point
+    - Have him encourage the questioning of Amrik
+- Get their sights set on the Vanthumpur Villa
+    - Thevius Kreig is here
+    - Zodge wants them to go here and the Fists are willing to turn an eye towards anything they may aquire monetarily while there
+        - Vanthumpurs are wealthy
+        - He just want's further information as to what and why she is working so hard at overtaking Bauldurs Gate
+
+
+**Mortlock's Messaging**
+pg. 26
+- His brothers despise him
+    - Saw an opportunity to remove him with the chaos of the Dead Three
+- Mother and brothers have been paying the Dead 3 cultists to murder citizens
+    - Saw an opportunity with the Grand Duke Ravenguard missing
+- If she can overwhelm the Flaming Fists they will likely leave Bauldrs Gate
+    - Nothing then would stand in her way of becoming the next Grand Duke of Bauldur's Gate
+- Give info about Amrik and Low Lantern Tavern
+
+**Low Lantern Tavern**
+- Mortlock's info
+    - Brother runs a money laundering scheme out of the Low Lantern Tavern
+        - How they have been ensuring the dead 3 are paid
+    - His mother (the Duke) addors Amrik and would negotiate for his life/well being
+        - Zodge would encourage this
+            - He would agree that what they did is great and will pay for it
+            - Removing their form of payment will ultimately lead to the end of this
+        - They are already doing work for them and on this thread. They can keep on it
+- I don't want a fight to take place here but if so NBD
+    - The staff doesn't get involved
+
+**Amrik**
+- Amrik is cunning at first but breaks when pushed too far
+    - Especially if threatened
+    - He does NOT want to fight
+- He wants to rule as his Mother's favorite
+    - Getting her into power is of utmost importance
+- Thalamar has been working with a man named Thavius Kreig for some time now
+    - Unsure about what but that he is important to her plans
+    - They spend a lot of time under the family villa
+
