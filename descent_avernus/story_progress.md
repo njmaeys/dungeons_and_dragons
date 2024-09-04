@@ -210,8 +210,14 @@ Spell Books
 - Figure out Mortlocks brothers
 
 
-### 03: 2024-08-28
+### 03: 2024-09-04
 *Sweet Title*
+
+**Buy Shit**
+- Helm and Cloak
+    - This is a basic general shop and can find things and sell things
+- Glitering Gales
+    - Gem and jewlery shop
 
 **Loot from last time**
 - Necromatic spell book. Give them a few
