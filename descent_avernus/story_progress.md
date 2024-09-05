@@ -211,13 +211,19 @@ Spell Books
 
 
 ### 03: 2024-09-04
-*Sweet Title*
+*Fuck Grant ... who is now Greg*
 
 **Buy Shit**
 - Helm and Cloak
     - This is a basic general shop and can find things and sell things
 - Glitering Gales
     - Gem and jewlery shop
+
+
+**Elfsong Tavern**
+20GP for a week
+    - 3 per night
+
 
 **Loot from last time**
 - Necromatic spell book. Give them a few
@@ -228,9 +234,11 @@ Spell Books
 - Purple Gems (Amathys)
     - 50gp each
 
+
 **Reward from Captain Zodge**
 - 200gp each if they go back and talk
     - Especially if they tell all the info they know
+
 
 **Key NPCs Here**
 - Klim (The guy they saved)
@@ -246,6 +254,7 @@ Spell Books
         - Both of them dispise him
 - Amrik Vanthumpur (pg. 30)
     - Sleezy business man type deal
+
 
 **Goal(s)**
 - Get Mortlock to give all the details of his Mom, Brothers, Dead Three, and Flaming Fists
@@ -294,3 +303,19 @@ pg. 26
     - Unsure about what but that he is important to her plans
     - They spend a lot of time under the family villa
 
+
+**The Guy They Destroy**
+Grant is now the enemy
+    - Come up with some shit
+    - They have now named him Greg
+
+
+### 03: 2024-09-25
+**Where to start next time**
+- Prep
+    - Get the conversation ready for Amrik and the group
+- Figure out Branmseys addoring fan
+    - They have been following his "work" for the last 5 years
+    - They have a signed <Something?> from him
+- How do I get them to the Villa
+    - Something with Thavious Kreig
